@@ -1,0 +1,10 @@
+body{
+          background: linear-gradient(90deg, rgba(121,9,92,1) 35%, rgba(175,0,255,1) 100%);
+}
+.wrapper{
+          height: 85vh;
+}
+li,input[type="text"],.taskar,.list-group>*{
+          color: rgb(243, 234, 234);
+          background-color: rgb(49, 47, 47) !important;
+}
